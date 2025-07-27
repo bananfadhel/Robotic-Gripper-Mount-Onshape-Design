@@ -1,5 +1,8 @@
 # Robotic Gripper Mount - Onshape Design
 
+# link of the project
+https://cad.onshape.com/documents/76e798c727d38ce7080ddd89/w/c05dda94c21eb214ba274f3c/e/fca6bf8b9167aa6b7debf828?configuration=List_ZKvtsxCuPpYWiW%3DDefault&renderMode=0&uiState=6885ee73a6ede90d66045fd3
+
 ## Overview
 This is a custom-designed robotic gripper mount created using Onshape. The component is designed to attach a robotic gripper to a base or robotic arm, with consideration for mounting strength, alignment, and motor integration.
 
